@@ -2,7 +2,7 @@ def main():
     with open('input.txt') as f:
         lines = f.readlines()
 
-        print("Calculate day 1")
+        print("Calculate day")
         print(f"Part one, result is {part_one(lines)}")
         print(f"Part two, result is {part_two(lines)}")
 
